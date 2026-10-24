@@ -1,17 +1,19 @@
 ---
-title: "Iccdeputy"
+title: "ICC"
 description: 
 slug: 
 date: 2026-10-24T13:29:19+08:00
 image: 
 categories: 
-  - reuters
-tags: [icc,debuty]
+  - Reuters
+tags: 
+  - ICC
+  - 国际刑事法院
 #weight: 1       # You can add weight to some posts to override the default sorting (date descending)
-comments: true
+comments: false
 build:
   list: always    # Change to "never" to hide the page from the list
-draft: true
+draft: false
 ---
 
 # 来自路透社：
